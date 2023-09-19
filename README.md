@@ -1,3 +1,7 @@
+<details>
+<summary>Bug_Reports_MVP</summary>
+
+
 |№ |Bug_Reports_MVP                                                          |
 |--|-------------------------------------------------------------------------|
 |1 |[BUG-1](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/1)  
@@ -15,3 +19,5 @@
 |13|[BUG-13](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/13)  
 |14|[BUG-14](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/14)  
 |15|[BUG-15](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/15)  
+
+</details>
