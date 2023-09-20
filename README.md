@@ -23,10 +23,34 @@
 </details>
 
 <details>
-<summary>Bug_Reports_Logic</summary>
+<summary>Bug_Reports_Logic_v.2</summary>
   
 |№ |Bug_Reports_                                                              |
 |--|--------------------------------------------------------------------------|
 |1|[BUG-16](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/16)|
+
+</details>
+
+<details>
+<summary>Bug_Reports_Logic_GUI_v.2</summary>
+  
+|№ |Bug_Reports_                                                              |
+|--|--------------------------------------------------------------------------|
+
+</details>
+
+<details>
+<summary>Bug_Reports_Logic_Validation_v.2</summary>
+  
+|№ |Bug_Reports_                                                              |
+|--|--------------------------------------------------------------------------|
+
+</details>
+
+<details>
+<summary>Bug_Reports_Logic_API_v.2</summary>
+  
+|№ |Bug_Reports_                                                              |
+|--|--------------------------------------------------------------------------|
 
 </details>
