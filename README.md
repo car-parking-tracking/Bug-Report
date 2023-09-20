@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary>Bug_Reports_Logic_GUI_v.2</summary>
+<summary>Bug_Reports_GUI_v.2</summary>
   
 |№ |Bug_Reports_                                                              |
 |--|--------------------------------------------------------------------------|
