@@ -40,7 +40,7 @@
 </details>
 
 <details>
-<summary>Bug_Reports_Logic_Validation_v.2</summary>
+<summary>Bug_Reports_Validation_v.2</summary>
   
 |№ |Bug_Reports_                                                              |
 |--|--------------------------------------------------------------------------|
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-<summary>Bug_Reports_Logic_API_v.2</summary>
+<summary>Bug_Reports_API_v.2</summary>
   
 |№ |Bug_Reports_                                                              |
 |--|--------------------------------------------------------------------------|
