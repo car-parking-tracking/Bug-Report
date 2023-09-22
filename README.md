@@ -50,6 +50,7 @@
   
 |№ |Bug_Reports_                                                              |
 |--|--------------------------------------------------------------------------|
+|1|[BUG-23](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/23#issue-1908992506)
 
 </details>
 
