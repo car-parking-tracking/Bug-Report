@@ -28,6 +28,7 @@
 |№ |Bug_Reports_                                                              |
 |--|--------------------------------------------------------------------------|
 |1|[BUG-16](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/16)|
+2|[BUG-30](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/30)
 
 </details>
 
