@@ -63,5 +63,5 @@
   
 |№ |Bug_Reports_                                                              |
 |--|--------------------------------------------------------------------------|
-
+28|[BUG-28](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/28)
 </details>
