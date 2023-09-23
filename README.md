@@ -52,6 +52,7 @@
 |--|--------------------------------------------------------------------------|
 |1|[BUG-23](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/23#issue-1908992506)
 |2|[BUG-24](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/24#issue-1909831021)
+|3|[BUG-25](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/25#issue-1909868621)
 
 </details>
 
