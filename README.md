@@ -55,6 +55,7 @@
 |3|[BUG-25](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/25#issue-1909868621)
 |4|[BUG-26](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/26#issue-1909877147)
 |5|[BUG-27](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/27#issue-1909883964)
+|6|[BUG-29](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/29#issue-1909911070)
 
 </details>
 
@@ -63,5 +64,5 @@
   
 |№ |Bug_Reports_                                                              |
 |--|--------------------------------------------------------------------------|
-28|[BUG-28](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/28)
+|28|[BUG-28](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/28)
 </details>
