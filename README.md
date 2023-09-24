@@ -25,18 +25,19 @@
 <details>
 <summary>Bug_Reports_Logic_v.2</summary>
   
-|№ |Bug_Reports_                                                              |
+|№ |Bug_Reports_v.2                                                              |
 |--|--------------------------------------------------------------------------|
 |1|[BUG-16](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/16)|
 2|[BUG-30](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/30)
 3|[BUG-31](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/31)
+4|[BUG-32](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/32)
 
 </details>
 
 <details>
 <summary>Bug_Reports_GUI_v.2</summary>
   
-|№ |Bug_Reports_                                                              |
+|№ |Bug_Reports_v.2                                                            |
 |--|--------------------------------------------------------------------------|
 |1|[BUG-17](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/17#issue-1906647662)
 |2|[BUG-18](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/18#issue-1907193664)
@@ -50,7 +51,7 @@
 <details>
 <summary>Bug_Reports_Validation_v.2</summary>
   
-|№ |Bug_Reports_                                                              |
+|№ |Bug_Reports_v.2                                                                |
 |--|--------------------------------------------------------------------------|
 |1|[BUG-23](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/23#issue-1908992506)
 |2|[BUG-24](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/24#issue-1909831021)
@@ -64,7 +65,7 @@
 <details>
 <summary>Bug_Reports_API_v.2</summary>
   
-|№ |Bug_Reports_                                                              |
+|№ |Bug_Reports_v.2                                                                |
 |--|--------------------------------------------------------------------------|
 |28|[BUG-28](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/28)
 </details>
