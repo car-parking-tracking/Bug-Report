@@ -23,7 +23,7 @@
 </details>
 
 <details>
-<summary>Bug_Reports_Logic_v.2</summary>
+<summary>Bug_Reports_Logic_</summary>
   
 |№ |Bug_Reports_v.2                                                              |
 |--|--------------------------------------------------------------------------|
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-<summary>Bug_Reports_GUI_v.2</summary>
+<summary>Bug_Reports_GUI_</summary>
   
 |№ |Bug_Reports_v.2                                                            |
 |--|--------------------------------------------------------------------------|
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary>Bug_Reports_Validation_v.2</summary>
+<summary>Bug_Reports_Validation_</summary>
   
 |№ |Bug_Reports_v.2                                                                |
 |--|--------------------------------------------------------------------------|
@@ -93,9 +93,10 @@
 </details>
 
 <details>
-<summary>Bug_Reports_API_v.2</summary>
+<summary>Bug_Reports_API_</summary>
   
 |№ |Bug_Reports_v.2                                                                |
 |--|--------------------------------------------------------------------------|
-|28|[BUG-28](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/28)
+|1|[BUG-28](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/28)
+|2|[BUG-61](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/61#issue-1996729842)
 </details>
