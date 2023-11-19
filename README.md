@@ -29,11 +29,11 @@
 |--|--------------------------------------------------------------------------|
 |1|[BUG-16](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/16)|
 |2|[BUG-30](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/30)
-|3|[BUG-50](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/50#issue-1920939596)
-|4|[BUG-51](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/51#issue-1920944894)
-|5|[BUG-52](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/52#issue-1920954915)
-|5|[BUG-54](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/54#issue-1943386434)
-|6|[BUG-58](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/58#issue-1952609745)
+|3|[BUG-50](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/50)
+|4|[BUG-51](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/51)
+|5|[BUG-52](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/52)
+|5|[BUG-54](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/54)
+|6|[BUG-58](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/58)
 
 
 </details>
@@ -43,20 +43,20 @@
   
 |№ |Bug_Reports_v.2                                                            |
 |--|--------------------------------------------------------------------------|
-|1|[BUG-17](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/17#issue-1906647662)
-|2|[BUG-18](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/18#issue-1907193664)
-|3|[BUG-19](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/19#issue-1907433100)
-|4|[BUG-20](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/20#issue-1908676544)
-|5|[BUG-21](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/21#issue-1908782637)
-|6|[BUG-22](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/22#issue-1908820685)
-|7|[BUG-33](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/33#issue-1919069541)
-|8|[BUG-34](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/34#issue-1920348511)
-|9|[BUG-35](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/35#issue-1920357910)
-|10|[BUG-49](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/49#issue-1920841706)
-|11|[BUG-53](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/53#issue-1931810380)
+|1|[BUG-17](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/17)
+|2|[BUG-18](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/18)
+|3|[BUG-19](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/19)
+|4|[BUG-20](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/20)
+|5|[BUG-21](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/21)
+|6|[BUG-22](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/22)
+|7|[BUG-33](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/33)
+|8|[BUG-34](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/34)
+|9|[BUG-35](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/35)
+|10|[BUG-49](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/49)
+|11|[BUG-53](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/53)
 |12|[BUG-55](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/55)
-|13|[BUG-59](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/59#issue-1954325685)
-|14|[BUG-60](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/60#issue-1954365657)
+|13|[BUG-59](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/59)
+|14|[BUG-60](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/60)
 
 </details>
 
@@ -65,15 +65,15 @@
   
 |№ |Bug_Reports_v.2                                                                |
 |--|--------------------------------------------------------------------------|
-|1|[BUG-23](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/23#issue-1908992506)
-|2|[BUG-24](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/24#issue-1909831021)
-|3|[BUG-25](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/25#issue-1909868621)
-|4|[BUG-26](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/26#issue-1909877147)
-|5|[BUG-27](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/27#issue-1909883964)
-|6|[BUG-29](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/29#issue-1909911070)
+|1|[BUG-23](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/23)
+|2|[BUG-24](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/24)
+|3|[BUG-25](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/25)
+|4|[BUG-26](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/26)
+|5|[BUG-27](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/27)
+|6|[BUG-29](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/29)
 |7|[BUG-31](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/31)
 |8|[BUG-32](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/32)
-|9|[BUG-36](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/36#issue-1920369707)
+|9|[BUG-36](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/36)
 |10|[BUG-37](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/37)
 |11|[BUG-38](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/38)
 |12|[BUG-39](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/39)
@@ -86,8 +86,8 @@
 |19|[BUG-46](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/46)
 |20|[BUG-47](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/47)
 |21|[BUG-48](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/48)
-|22|[BUG-56](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/56#issue-1952350529)
-|23|[BUG-57](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/57#issue-1952418050)
+|22|[BUG-56](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/56)
+|23|[BUG-57](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/57)
 
 
 </details>
@@ -101,8 +101,8 @@
 |2|[BUG-61](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/61)
 |3|[BUG-62](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/62)
 |4|[BUG-63](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/63)
-|5|[BUG-63](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/64)
-|6|[BUG-63](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/65)
-|7|[BUG-63](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/66)
-|8|[BUG-63](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/67)
+|5|[BUG-64](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/64)
+|6|[BUG-65](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/65)
+|7|[BUG-66](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/66)
+|8|[BUG-67](https://github.com/car-parking-tracking/QA_Bug_Reports/issues/67)
 </details>
